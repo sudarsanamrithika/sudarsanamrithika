@@ -4,8 +4,7 @@ I'm a year-2 poly student, studying Information Technology at Ngee Ann Polytechn
 
 Below are a few of the projects I have worked on! 
 
-### My projects: 
-\
+### My projects: <br/>
 1.  Web Development:
    
     - [OCBC Customer Experience Improvements](https://github.com/kohct1/FSDP-Assignment): A website created to help better enhance customer experience in asking enquiries by adding a forum, queueing system, live chats, and chatbot!
