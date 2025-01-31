@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm a year-2 poly student, studying Information Technology at Ngee Ann Polytechnic. I am passionate in pursuing a career in full-stack development. and enjoy learning new technologies along the way. 
-
-Here are a few of the projects I have worked on! 
+I'm a year-2 poly student, studying Information Technology at Ngee Ann Polytechnic. I am passionate in pursuing a career in full-stack development. and enjoy learning new technologies along the way. I'm a creative and hardworking individual who thrives on the pursuit of knowledge and am always seeking new challenges and opportunities to learn. Here are a few of the projects I have worked on! 
 
 ### My projects:
 ***
